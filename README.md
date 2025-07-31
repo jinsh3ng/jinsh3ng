@@ -19,7 +19,7 @@ Python | R | SQL | | HTML | CSS | C++ (basic) | Java (basic) | JavaScript (basic
 React.js (basic) | FastAPI (basic)  
 
 **Data Science & Quantitative Skills:**  
-Linear Algebra | Calculus | Probability & Statistics | Time Series Analysis | Machine Learning | Large Language Models (LLMs)  
+Large Language Models (LLMs) | Machine Learning | Time Series Analysis | Probability & Statistics | Linear Algebra | Calculus | 
 
 **Libraries & Tools:**  
 Microsoft Azure | Pandas | NumPy | Matplotlib | Scikit-learn | Git & GitHub | InfluxDB | JIRA | Confluence | Tableau (basic) | Linux (basic)    
