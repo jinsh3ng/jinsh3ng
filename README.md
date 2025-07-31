@@ -6,7 +6,7 @@ This is **Jinsheng**, an undergraduate student from **Nanyang Technological Univ
 - 🌏 Singaporean 
 - 🗣️ Fluent in **English** and **Mandarin**  
 - 🤖 Passionate about Machine Learning, Data Science, and AI Applications on Finance
-- 🏆 1× Hackathon Top 3 Finalist  
+- 🏆 Top 3 Finalist at the **DSO AI Hackathon** 
 
 ---
 
