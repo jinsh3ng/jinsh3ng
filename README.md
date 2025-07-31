@@ -29,8 +29,7 @@ Microsoft Azure | Pandas | NumPy | Matplotlib | Scikit-learn | Git & GitHub | In
 
 ## 📫 Connect with Me
 
-- **GitHub:** [github.com/jinsheng](https://github.com/)  
-- **Email:** [jinsheng@ntu.edu.sg](mailto:jinsheng@ntu.edu.sg)  
+- **GitHub:** [github.com/jinsheng](https://github.com/)   
 - **LinkedIn:** [linkedin.com/in/jinsh3ng](https://www.linkedin.com/in/jinsh3ng/)
 
 ---
